@@ -17,22 +17,11 @@ This project is a hands-on demonstration of a login system vulnerable to SQL inj
 - SQLite
 - HTML
 
-
-## How to Run It
-
-### 1. Clone the repo
+### Clone the repo
 
 git clone https://github.com/IngridFuentes/sql-injection-demo.git
 
-### 2. Install Dependencies
-
-### 3. Setup the database
-
-python setup_db.py
-
-### 4. Start the app
-
-python app.py
+### Start the app
 
 Then go to:
 
